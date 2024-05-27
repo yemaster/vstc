@@ -4,10 +4,16 @@
         "入学"
     ],
     "recommended": [
-        "2023sxdd",
-        "2023xgxj"
+        "2024jdsgy"
     ],
     "problems": {
+        "2024jdsgy": {
+            "title": "2024近代史纲要机考题库",
+            "time": 2024,
+            "categories": [
+                "政治"
+            ]
+        },
         "2023sxdd": {
             "title": "2023思想道德与法治无纸化考试题库",
             "time": 2023,
