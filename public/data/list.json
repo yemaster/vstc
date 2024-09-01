@@ -4,11 +4,19 @@
         "入学"
     ],
     "recommended": [
+        "2024dekt",
         "2024xgxj"
     ],
     "problems": {
         "2024xgxj": {
             "title": "2024年校规校纪知识测试题库(130题)",
+            "time": 2024,
+            "categories": [
+                "入学"
+            ]
+        },
+        "2024dekt": {
+            "title": "2024年第二课堂知识测试题库(47题)",
             "time": 2024,
             "categories": [
                 "入学"
