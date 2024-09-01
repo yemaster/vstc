@@ -2839,6 +2839,28 @@
                     "isCorrect": false
                 }
             ]
+        },
+        {
+            "content": "学生提出申诉时，应当向学生申诉处理委员会办公室递交申诉申请书，并附上学校作出的处理决定书的复印件。申诉书应当载明的内容包括（）。\n①申诉人的姓名、学号、院系、班级、联系方式及其它基本情况\n②申诉的事项、理由、事实根据及要求\n③提出申诉的日期\n④与申诉事项无关的内容",
+            "id": "130",
+            "options": [
+                {
+                    "content": "A.①②④",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.①③④",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.②③④",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①②③",
+                    "isCorrect": false
+                }
+            ]
         }
     ]
 }
