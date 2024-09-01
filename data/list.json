@@ -4,9 +4,16 @@
         "入学"
     ],
     "recommended": [
-        "2024jdsgy"
+        "2024xgxj"
     ],
     "problems": {
+        "2024xgxj": {
+            "title": "2024年校规校纪知识测试题库(129题)",
+            "time": 2024,
+            "categories": [
+                "入学"
+            ]
+        },
         "2024jdsgy": {
             "title": "2024近代史纲要机考题库",
             "time": 2024,

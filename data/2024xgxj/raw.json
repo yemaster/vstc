@@ -1,0 +1,2844 @@
+{
+    "name": "2024年校规校纪知识测试题库",
+    "id": "1abcea4f-8acf-4108-9426-8d644f11e723",
+    "questions": [
+        {
+            "content": "《中国科学技术大学学生违纪处分管理规定》依据了教育部（）。\n①《普通高等学校学生管理规定》\n②《高等学校学生行为准则》\n③《普通高等学校辅导员队伍建设规定》\n④《高等学校学术委员会规程》",
+            "id": "1",
+            "options": [
+                {
+                    "content": "A.③④",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.①③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.①②",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.①②③④",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "《中国科学技术大学学生违纪处分管理规定》适用于（）。\n①具有中国科学技术大学正式学籍的本科生\n②具有中国科学技术大学正式学籍的研究生\n③已经入学报到，尚处在学籍审查期中的新生",
+            "id": "2",
+            "options": [
+                {
+                    "content": "A.只有①②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.只有②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.只有①③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①②③",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "实施违纪处分应当坚持（）的原则。\n①公正、公平、公开\n②批评教育与违纪处分相结合\n③集体讨论，少数服从多数",
+            "id": "3",
+            "options": [
+                {
+                    "content": "A.只有①③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.只有①②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.只有②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①②③",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "下面（）不是违纪处分的种类。",
+            "id": "4",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.通报批评",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "留校察看处分的察看期限从处分决定书发文之日起计算，期限为（）。",
+            "id": "5",
+            "options": [
+                {
+                    "content": "A.九个月",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.六个月",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.一年",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.两年",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "在重点防火单位或场所擅自使用明火，造成严重公共安全隐患的，可能给予的处分不包括（）。",
+            "id": "6",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "谩骂、侮辱或者诽谤他人，造成不良影响的给予警告或者（）处分；情节严重的给予记过以上直至留校察看处分。",
+            "id": "7",
+            "options": [
+                {
+                    "content": "A.严重警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.记过",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "有盗窃、勒索、诈骗、冒领、侵占行为者，根据国家相关法规，给予（）处分。",
+            "id": "8",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.警告或严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.警告以上直至开除学籍",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.记过或留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "用信函、电话或者电子邮件等手段或者直接恐吓、威胁他人，干扰他人正常生活的，给予警告或者严重警告处分；情节严重的，给予记过以上直至（）处分。",
+            "id": "9",
+            "options": [
+                {
+                    "content": "A.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.留校察看",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.警告",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "违反保密规定，泄露学校科技成果，包括技术秘密的，给予（）处分；情节严重的，给予留校察看或者开除学籍处分。",
+            "id": "10",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.警告或者严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.警告或者记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.严重警告或者记过",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "下面（）是学生处分的流程。\n①由学生所在学院（系、直属教学单位）提交处分建议及违纪相关证据和资料\n②学生工作部审核后提供处分意见\n③报校长工作会议讨论决定",
+            "id": "11",
+            "options": [
+                {
+                    "content": "A.①②③",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.②③①",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.①③②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.②①③",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "学生在考试（含考查、测验等）时有下列（）情况，为考试作弊行为，视情节轻重给予记过或留校察看处分。\n①闭卷考试开始后，被监考人员发现抄看桌内、座位旁与考试内容相关的书、笔记、讲义、复习材料等物品者\n②闭卷考试开始后，被监考人员发现桌面上放有与考试内容相关的书、笔记、讲义、复习材料等物品，或者在桌面、身上等处写有与考试课程相关内容者\n③强拿他人试卷或草稿纸者\n④在允许使用的工具书上写有与考试相关的内容或夹带与考试相关材料者",
+            "id": "12",
+            "options": [
+                {
+                    "content": "A.只有①④",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.只有①③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.只有①③④",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①②③④",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "学生在考试（含考查、测验等）时有下列（）情况，为考试作弊行为，视情节轻重给予记过或留校察看处分。\n①闭卷考试开始后，被监考人员发现抄看利用自带用品夹带的与考试内容有关的笔记、复习材料、纸条者\n②把答卷或有字迹的草稿纸移向邻座或竖起，为他人提供偷看机会者\n③考试中未经允许使用电子辞典或其他有文字存储功能的电子设备者",
+            "id": "13",
+            "options": [
+                {
+                    "content": "A.只有②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.只有③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.只有②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①②③",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "学生在考试（含考查、测验等）时有下列（）情况，为考试作弊行为，视情节轻重给予记过或留校察看处分。\n①抄袭他人试卷或草稿纸者\n②考试中直接或以借用工具书、文具、计算器等方式传接试卷、答卷或纸条者\n③考试过程中，利用上厕所等机会在考场外偷看有关考试内容的资料，或与他人交谈有关考试内容者",
+            "id": "14",
+            "options": [
+                {
+                    "content": "A.①②③",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.只有①②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.只有①③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.只有②③",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "学生在考试（含考查、测验等）时有下列（）行为，为考试违规行为。\n①交卷后在考场逗留或在考场附近高声喧哗，经当场警告不改者\n②考试中东张西望，企图偷看他人试卷，经当场警告不改者\n③闭卷考试开始后，学生利用自带用品夹带与考试内容有关的笔记、复习材料、纸条，但尚未抄看者\n④闭卷考试开始后，学生桌内、座位旁有与考试内容相关的书、笔记、讲义、复习材料等物品，但尚未抄看者",
+            "id": "15",
+            "options": [
+                {
+                    "content": "A.只有①③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.只有②④",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.只有①②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①②③④",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "学生在考试（含考查、测验等）时，有由他人代考或者替他人考试的情况，为严重作弊行为，给予（）处分。",
+            "id": "16",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "学生在考试（含考查、测验等）时有下列（）情况，为严重作弊行为，给予开除学籍处分。\n①由他人代考者\n②替他人考试者\n③使用通讯设备作弊者\n④组织作弊者\n⑤抄袭他人试卷或草稿纸者",
+            "id": "17",
+            "options": [
+                {
+                    "content": "A.①②③④⑤",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.①②③⑤",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.①②④⑤",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①②③④",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "故意散布谣言，破坏社会和校园稳定的，最重可给予（）。",
+            "id": "18",
+            "options": [
+                {
+                    "content": "A.警告处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.记过处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.开除学籍处分",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.留校察看处分",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "宣扬邪教，经教育不改者，视情节轻重和悔改态度，最重给予（）处分。",
+            "id": "19",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.开除学籍",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "在重点防火单位或场所擅自使用明火，造成严重公共安全隐患的，给予严重警告或者记过处分；情节严重的，给予留校察看或者（）处分。",
+            "id": "20",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "有剽窃、抄袭或者伪造实验数据、计算结果等学术不端行为的，给予（）处分；情节严重的，给予开除学籍处分。",
+            "id": "21",
+            "options": [
+                {
+                    "content": "A.警告或者严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.记过或者留校察看",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.严重警告或者记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.严重警告",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "喧哗或者有使用音响器材，音量过大等扰乱管理秩序行为，经劝阻无效的，给予警告或严重警告处分；情节严重的，给予（）处分。",
+            "id": "22",
+            "options": [
+                {
+                    "content": "A.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.记过",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.通报批评",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "涂改、伪造成绩单、签字、印章、推荐信或者其他有关学业、学术水平证明的，给予（）处分。",
+            "id": "23",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.留校察看或开除学籍",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "有剽窃、抄袭或者伪造实验数据、计算结果等学术不端行为的，视情节轻重可能给予（）处分。\n①通报批评\n②记过\n③留校察看\n④开除学籍",
+            "id": "24",
+            "options": [
+                {
+                    "content": "A.①②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.②③④",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.①②③④",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①③④",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "以下（）行为属于违反学生社区管理有关规定的行为。\n①违章用电\n②出租学生宿舍给校外人员\n③出租学生宿舍给本校同学\n④经申请批准在校外住宿\n⑤未经批准私自更换宿舍门锁\n⑥私拉电线",
+            "id": "25",
+            "options": [
+                {
+                    "content": "A.①②③④⑤",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.①②④⑤⑥",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.①②③⑤⑥",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.①②③④⑤⑥",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "违章用电或者违章使用电器，经教育不改的，给予（）处分。",
+            "id": "26",
+            "options": [
+                {
+                    "content": "A.警告或者严重警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.记过或者留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.严重警告或者记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "制造、故意传播和应用计算机病毒，或者非法侵入他人、组织的计算机等设备系统，依据所造成的损失，给予（）处分；情节严重的，给予留校察看或者开除学籍处分。",
+            "id": "27",
+            "options": [
+                {
+                    "content": "A.严重警告或者记过",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.警告或者严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.通报批评",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "以下（）行为，违反学生社区管理有关规定，给予警告或者严重警告处分。\n①将钥匙借给非本宿舍人员使用造成公共或他人财产损失的\n②未经学生社区管理部门批准私自调换宿舍，经教育不改的\n③扰乱宿舍管理秩序，对其他人的正常学习、生活造成影响，经批评教育不改者\n④经申请批准在校外住宿的",
+            "id": "28",
+            "options": [
+                {
+                    "content": "A.①②④",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.①②③",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.②③④",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①②③④",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "违反学校保密工作规定，造成不良影响的，给予警告或者严重警告处分；情节严重的，给予记过或者（）处分。",
+            "id": "29",
+            "options": [
+                {
+                    "content": "A.口头批评",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.通报批评",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.留校察看",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "违反学生业余活动管理规定或社团协会管理规定，违反学生团体管理的有关规定，组织成立未曾登记注册或未经批准的学生团体并开展活动，出版刊物，或以合法学生团体的名义开展非法活动，或有其他违反学校学生团体管理规定并造成严重后果的行为，视情节轻重给予（）以上直至开除学籍处分。",
+            "id": "30",
+            "options": [
+                {
+                    "content": "A.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.记过",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "在违纪事件处理过程中故意作伪证或故意给调查造成困难的，给予警告或者（）处分。",
+            "id": "31",
+            "options": [
+                {
+                    "content": "A.严重警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "以下说法不正确的是：（）。",
+            "id": "32",
+            "options": [
+                {
+                    "content": "A.故意为他人打架提供凶器，未造成伤害者，给予记过以上处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.故意为他人打架提供凶器，造成伤害者，给予留校察看直至开除学籍处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.怂恿、挑唆、用言辞侮辱或其他方式触犯他人，引起事端或激化矛盾，未造成打架后果者，给予记过处分",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.殴打他人或互殴，尚未致伤者，给予严重警告处分",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "以下可视情节减轻或者免除处分的是：（）。",
+            "id": "33",
+            "options": [
+                {
+                    "content": "A.殴打他人或互殴，尚未致伤者",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.致他人轻伤者",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.致他人轻微伤者",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.正当防卫或被迫还击者",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "故意损毁、破坏校园公共建筑、集体宿舍或者公共设施的，给予（）或者记过处分；情节严重的，给予留校察看或者开除学籍处分（）。",
+            "id": "34",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.口头批评",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.通报批评",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "下列行为属于侵权或者损害学校声誉的包括：（）。\n①在个人的商业活动中，公开在招牌、广告、海报、文件等有关宣传材料上未经允许使用学校的名称或者标识的\n②擅自代表学校、院系等机构或者学生组织等名义对外发布公告、新闻，或者做出不负责任承诺的\n③擅自代表学校、院系等机构或者学生组织等名义在社会上参加活动的",
+            "id": "35",
+            "options": [
+                {
+                    "content": "A.①②③",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.只有①②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.只有②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.只有①③",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "《中国科学技术大学学生违纪处分实施细则》和《中国科学技术大学学生违纪处分管理规定》由（）负责解释。",
+            "id": "36",
+            "options": [
+                {
+                    "content": "A.教务处",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.院系教学办",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.学生工作部（处）",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.团委",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "以下行为不需要接受处分的是：（）。",
+            "id": "37",
+            "options": [
+                {
+                    "content": "A.以央求、送礼、请客、威胁等手段要求老师提高分数",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.以央求、送礼、请客、威胁等手段要求老师隐瞒违纪作弊事实",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.考试时作弊未被发现，事后查出者",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.考试中，经允许使用计算器者",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "学生在考试中替他人考试者：（）。",
+            "id": "38",
+            "options": [
+                {
+                    "content": "A.不属于作弊行为，但可以给予适当处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.属于作弊行为，给予警告到留校察看处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.是严重作弊行为，给予开除学籍处分",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.属于作弊行为，给予严重警告处分",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "因考试作弊受到处分后，再次考试作弊者，给予（）。",
+            "id": "39",
+            "options": [
+                {
+                    "content": "A.记过处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.警告处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.严重警告处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍处分",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "以下行为中不属于考试违规行为的是：（）。",
+            "id": "40",
+            "options": [
+                {
+                    "content": "A.未经允许携带笔记或者书籍等资料",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.闭卷考试开始后，学生桌内、座位旁有与考试相关的书、笔记等物品，但尚未抄看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.闭卷考试开始后，学生利用文具盒、衣物或其他用品夹带与考试有关的笔记、资料等，但尚未抄看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.考试中，经允许使用计算器者",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "以下行为中属于考试违规但不属于作弊行为的是：（）。",
+            "id": "41",
+            "options": [
+                {
+                    "content": "A.强拿他人试卷或草稿纸",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.把答卷或有字迹的草稿纸移向邻座或竖起，为他人提供抄看机会",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.交卷后仍在考场逗留或在考场附近高声喧哗",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.抄袭他人试卷或草稿纸",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "以下（）行为属于考试违规，视情节轻重给予警告或者严重警告处分。\n①考试中东张西望，企图偷看他人试卷，经当场警告不改者\n②开卷考试中未经监考人员允许借用他人的书、笔记、资料、计算器等物品，经当场警告不改者\n③考试中交头接耳说话者",
+            "id": "42",
+            "options": [
+                {
+                    "content": "A.只有①③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.只有①②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.①②③",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.只有②③",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "学生在考试（含考查、测验等）时，有下列（）情形者，为考试违规行为，视情节轻重给予警告或者严重警告处分。\n①他人强拿自己的答卷或草稿纸却未加拒绝者\n②用某种示意、动作互相传递有关考试信息者\n③其他违反考试纪律的行为，影响考试秩序的",
+            "id": "43",
+            "options": [
+                {
+                    "content": "A.只有②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.①②③",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.只有①②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.只有①③",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "下列属于严重作弊行为的是（）。",
+            "id": "44",
+            "options": [
+                {
+                    "content": "A.强拿他人试卷或草稿纸",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.抄袭他人试卷或草稿纸",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.考试过程中未经允许使用电子辞典、有文字存储功能的计算器",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.由他人代考者",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "偷窃公章、保密文件、档案等物品者，视情节轻重，最重可给予（）处分。",
+            "id": "45",
+            "options": [
+                {
+                    "content": "A.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.开除学籍",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.严重警告",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "以下涉及知识产权的行为中属于违纪的是：（）。\n①未经许可，私自转让、许可使用学校或他人知识产权\n②违反保密规定，泄露学校科技成果，包括技术秘密\n③有其他违反学校有关知识产权规定的行为，使学校权益受到损失",
+            "id": "46",
+            "options": [
+                {
+                    "content": "A.①②③",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.只有①②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.只有②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.只有①③",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "对违纪学生的处分，由（）出具处分决定书。",
+            "id": "47",
+            "options": [
+                {
+                    "content": "A.学院",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.学校",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.省教育厅",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.教育部",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "下面可以视为处分决定书送交的是（）。\n①由学生所在学院（系、直属单位）会同学生工作部（处）等有关部门送交学生本人，由学生本人在送交通知书上记明收到的日期并签名\n②处分决定书无法送交学生本人的，可由学生工作部（处）挂号邮寄给学生的成年家属，自交寄之日起（以邮局邮戳日期为准），经过30日\n③无法邮寄送交的，由学生工作部（处）在校内公告，自发出公告之日起，经过30日",
+            "id": "48",
+            "options": [
+                {
+                    "content": "A.只有①",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.只有②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.只有③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①②③",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "经过查证核实后可以作为处分违纪学生的依据的是（）。\n①书证、物证、证人证言、当事人陈述\n②视听资料、鉴定结论、勘验笔录、现场笔录\n③学校有关部门提供的说明性材料、其他权威部门依法作出的鉴定性结论",
+            "id": "49",
+            "options": [
+                {
+                    "content": "A.只有①②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.只有②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.①②③",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.只有①③",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "关于学生处分的说法，下面不对的是：（）。",
+            "id": "50",
+            "options": [
+                {
+                    "content": "A.警告和严重警告处分设置6个月期限",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.记过和留校察看设置12个月期限，处分期满时，由本人申请，可以按期解除处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.被处分后学生表现良好，可以撤销其处分",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.解除处分后，学生获得表彰、奖励及其他权益，不再受原处分的影响",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "关于开除学籍处分，下列说法不对的是：（）。",
+            "id": "51",
+            "options": [
+                {
+                    "content": "A.接到处分决定书之日起15个工作日内办理离校手续，户口迁移回原籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.学校将学生档案寄回生源地的教育主管部门",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.学校发给学生学习证明，但不退还已缴纳的下一学期学费及有关费用",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.学生返程路费自理",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "学校对学生做出开除学籍处分的决定须报（）备案。\n①中国科学院相关职能部门\n②安徽省教育厅\n③安徽省公安厅\n④安徽省科技厅",
+            "id": "52",
+            "options": [
+                {
+                    "content": "A.②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.①④",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.①②",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.①③",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "我校学生申诉的主要申诉机构是：（）。",
+            "id": "53",
+            "options": [
+                {
+                    "content": "A.中国科学技术大学学生申诉处理委员会",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.教务处",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.学生会和研究生会",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.学生所在学院",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "对学生申诉处理委员会的职责描述正确的是：（）。\n①对申诉学生提出的申诉理由、证据等进行调查、核实\n②对学校做出处理的事实、理由和依据进行复查\n③受理学生对本人所受处理的申诉",
+            "id": "54",
+            "options": [
+                {
+                    "content": "A.只有①③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.只有②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.只有①②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①②③",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "以下哪种情况下当事人可以向学校提出申诉：（）。",
+            "id": "55",
+            "options": [
+                {
+                    "content": "A.甲同学由于上课迟到被老师批评",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.乙同学竞选班干部失败",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.丙同学违纪，学校做出开除学籍处分",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.丁同学未交作业被老师批评",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "以下关于申诉的说法正确的是：（）。",
+            "id": "56",
+            "options": [
+                {
+                    "content": "A.在未作出申诉处理决定前，学生不可以撤回申诉",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.学生可向申诉处理委员会口头撤回申诉",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.学生撤回申诉后，不可以再次提出申诉",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.学生申诉委员会正在接到撤回申诉申请后，还应继续进行复查工作。",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "学生正确的提起申诉流程是：（）。",
+            "id": "57",
+            "options": [
+                {
+                    "content": "A.向所在班级班主任递交申诉申请书",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.前往学生工作处口头告知",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.向所在学院递交申诉申请书",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.在收到决定书10个工作日之内向学生申诉处理委员会办公室递交申诉申请书和学校作出的处理决定书复印件",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "在申诉期间，除（）处分之外原处理决定照常执行。",
+            "id": "58",
+            "options": [
+                {
+                    "content": "A.退学处理",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.开除学籍",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.取消学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "以下关于申诉处理程序的说法不正确的是：（）。",
+            "id": "59",
+            "options": [
+                {
+                    "content": "A.学生可以在决定书送交之日起10个工作日内，向学校学生申诉处理委员会提出书面申诉",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.学生如对学校复查决定仍有异议，可以在学校复查决定书送达之日起15个工作日内，向中国科学院相关职能部门或安徽省教育厅提出书面申诉",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.从处分决定或复查决定送交之日起，学生在申诉期内未提出申诉的，学校或上级教育主管部门不再受理其提出的申诉。",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.学生撤回申诉后，可以再次提出申诉",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "对《中国科学技术大学违纪处分管理规定》的适用范围，不正确的是（）。",
+            "id": "60",
+            "options": [
+                {
+                    "content": "A.不适用于学生在校外开展教学、实习、考察、社会实践、挂职锻炼等社会活动期间的违纪行为",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.适用于具有中国科学技术大学正式学籍的本科生和研究生",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.适用于已经入学报到的新生",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.适用于接受成人高等学历教育的学生、港澳台学生、华侨学生、留学生、非学历教育研究生等类别的在校学生",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "关于留校察看处分的说法，下面不正确的是：（）。",
+            "id": "61",
+            "options": [
+                {
+                    "content": "A.学生有新的违纪行为，按规定可以给予任何一种纪律处分的，均给予直接开除学籍处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.学生虽有新的违纪行为，尚不够给予纪律处分的，也应当给予开除学籍处分",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.学生有悔改表现，进步明显的，可以由本人申请提前解除察看期",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.学生没有新的违纪行为的，察看期满时，可以由本人申请按期解除察看期",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "对于受到纪律处分的学生，以下说法正确的是（）。",
+            "id": "62",
+            "options": [
+                {
+                    "content": "A.不可以附加取消其在学位方面的申请资格",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.不可以附加取消其在奖助学金方面的申请资格",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.可以附加取消其在免试推荐研究生方面的申请资格",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.不可以附加取消其在荣誉称号方面的申请资格",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "关于处分决定书的送交以下说法正确的是（）。",
+            "id": "63",
+            "options": [
+                {
+                    "content": "A.处分决定书必须送交学生本人，注明收到日期并签字",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.若学生本人拒绝接受处分决定书，送交人应当如实记录拒绝签字的情况和日期，无需见证人",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.在学生本人拒绝接受处分决定书，应当由送交人亲自带回决定书并留档记录",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.处分决定书在一定情况下可以邮寄给学生成年家属或者在校内公告",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "以下（）行为，视情节轻重，可给予开除学籍处分。\n①违反《中华人民共和国刑法》被司法机关判处罚金、管制、拘役、有期徒刑（包括缓刑）以上刑罚者\n②违反治安管理规定受到处罚，情节恶劣的\n③违反《中华人民共和国集会游行示威法》组织、参加未经批准的集会、游行、示威等活动的策划者、组织者和骨干分子",
+            "id": "64",
+            "options": [
+                {
+                    "content": "A.只有②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.①②③",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.只有①③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.只有①②",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "违反国家宪法、法律、法规、法令者，视情节轻重给予（）处分。",
+            "id": "65",
+            "options": [
+                {
+                    "content": "A.警告以上直至开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告以上直至开除学籍",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.记过以上直至开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.留校察看以上直至开除学籍",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "以下（）行为，给予留校察看以上直至开除学籍处分。\n①未经批准擅自离校或者请假逾期不归，连续10天以上\n②未经批准擅自缺课，一学期内缺课累计达41学时以上\n③盗窃、故意隐匿、毁弃或者破坏试卷、答卷\n④组织、成立、加入非法社会团体或非法组织、邪教组织，开展非法活动的，对策划者、组织者和骨干分子",
+            "id": "66",
+            "options": [
+                {
+                    "content": "A.只有①③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.只有①②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.只有②③④",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①②③④",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "有乱涂画、乱张贴、乱挂放等故意破坏环境卫生行为的，给予（）处分。",
+            "id": "67",
+            "options": [
+                {
+                    "content": "A.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.警告或严重警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "对下列（）行为会给予警告或者严重警告处分。\n①在违纪事件处理过程中，故意做伪证，或故意给调查造成困难\n②谎报家庭状况骗领奖助学金、困难补助\n③使用学校提供的宿舍、电话、电子邮件或者校园网络等教育资源，从事个人\n商业活动，造成不良影响并经教育不改的",
+            "id": "68",
+            "options": [
+                {
+                    "content": "A.只有①",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.只有②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.只有②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①②③",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "对下列（）行为会给予记过或留校察看处分。\n①严重妨碍学校有关人员执行公务\n②发布代考、代写论文以及买卖论文、作业等信息的或者有其他扰乱学校教学秩序、损害校风学风行为的，情节严重者\n③盗用他人、组织的账号、密码，造成不良影响的，情节严重者",
+            "id": "69",
+            "options": [
+                {
+                    "content": "A.只有①②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.只有②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.只有①③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①②③",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "以下说法不正确的是：（）。",
+            "id": "70",
+            "options": [
+                {
+                    "content": "A.参与赌博或明知赌博而提供赌具或场所的，给予严重警告或者记过处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.吸食毒品，情节严重者给予警告处分",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.参与非法传销的，给予警告或者严重警告处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.恶意违约，不履行承诺，造成不良影响的，给予警告或者严重警告处分",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "吸食毒品者，给予（）处分。",
+            "id": "71",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.通报批评",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.记过以上直至开除学籍",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "以下说法错误的是：（）。\n",
+            "id": "72",
+            "options": [
+                {
+                    "content": "A.偷看他人试卷或草稿纸者，给予开除学籍处分",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.考试中交头接耳说话者，视情节轻重，给予警告或者严重警告处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.他人强拿自己的答卷或草稿纸却未加拒绝者，视情节轻重，给予警告或者严重警告处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.用某种示意、动作互相传递有关考试信息者，视情节轻重，给予警告或者严重警告处分",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "盗用、涂改、伪造学生证等证件或其它证明性文件的，给予（）处分。",
+            "id": "73",
+            "options": [
+                {
+                    "content": "A.严重警告及以上直至开除学籍",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "通过不正当肢体行为、语言、文字、影像、图片、电子信息及其他行为或方式对他人进行骚扰的，视情节轻重，最重可给予（）处分。",
+            "id": "74",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.开除学籍",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.严重警告",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "隐匿、毁弃、非法占有或者非法处理他人或者组织的通知、邮件或者电子邮件，最重可给予（）处分。",
+            "id": "75",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "以下说法不正确的是（）。",
+            "id": "76",
+            "options": [
+                {
+                    "content": "A.将自己的BBS账号或邮箱地址借给他人使用或者由于个人密码保管不善被他人利用，造成不良后果的，视情节轻重，给予警告以上直至记过处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.未经允许，修改、移动、破坏、复制、下载他人、组织的计算机等设备中的文件等信息存储方式，依据所造成的损失，视情节轻重，给予警告以上直至留校察看处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.在各种网络论坛发布违反宪法，反对四项基本原则、破坏安定团结、扰乱社会秩序的言论，视情节轻重，给予警告以上直至开除学籍处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.制造、故意传播和应用计算机病毒，或者非法侵入他人、组织的计算机等设备系统，依据所造成的损失，给予警告处分",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "未经批准擅自离校或者请假逾期不归者，下列说法不正确的是（）。",
+            "id": "77",
+            "options": [
+                {
+                    "content": "A.连续4-5天的，给予警告处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.连续6-7天的，不给予处分",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.连续8-9天的，给予记过处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.连续10天以上的，给予留校察看以上直至开除学籍处分",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "因请假逾期不归或擅自离校受到处分不予改正，再次违反的，给予（）处分。",
+            "id": "78",
+            "options": [
+                {
+                    "content": "A.原受记过及以下处分者，给予留校察看处分",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.原受记过及以下处分者，给予开除学籍处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.原受留校察看处分者，不可给予开除学籍处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.原受留校察看处分者，给予留校察看处分",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "下列未经批准擅自缺课，给予处分的说法中不对的是（）。",
+            "id": "79",
+            "options": [
+                {
+                    "content": "A.一学期内缺课累计达20学时的，给予警告处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.一学期内缺课累计达21-30学时的，给予严重警告处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.一学期内缺课累计达31-40学时的，给予严重警告处分",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.一学期内缺课累计达41学时以上的，给予留校察看以上直至开除学籍处分。",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "擅自散发未经登记、审批的宣传品、印刷品的，造成不良影响的，给予（）处分。",
+            "id": "80",
+            "options": [
+                {
+                    "content": "A.警告或者严重警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.通报批评",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "学生违纪有下列（）情形者，从重或者加重处分。\n①违纪行为的为首者或组织者\n②违纪后故意隐瞒，拒不承认，无理狡辩者\n③对检举人、证人进行威胁或打击报复者",
+            "id": "81",
+            "options": [
+                {
+                    "content": "A.①②③",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.只有①②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.只有①③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.只有②③",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "学生违纪有下列（）情形者，从重或者加重处分。\n①违纪再犯者\n②因违纪行为造成严重后果者\n③在校外违纪，并在社会上造成恶劣影响者",
+            "id": "82",
+            "options": [
+                {
+                    "content": "A.只有①②",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.只有②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.只有①③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①②③",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "有下列（）情形的，从轻、减轻或免于处分。\n①情节特别轻微的，或主动承认错误并及时改正的\n②主动提供情况揭发他人违法违纪行为并经查证属实\n③因不可抗力原因或紧急避险造成违规违纪的",
+            "id": "83",
+            "options": [
+                {
+                    "content": "A.只有①③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.①②③",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.只有②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.只有①②",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "下面关于学生处分的说法不正确的是：（）。",
+            "id": "84",
+            "options": [
+                {
+                    "content": "A.学生处分处分期满时，由本人提出申请，获得批准后，可以按期解除处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.对学生的处分及解除处分材料，应当真实完整地归入学校文书档案和学生本人档案",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.被开除学籍的学生逾期不办离校手续的，由学生所在学院（系、直属单位）按规定程序代为办理",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.学生处分可以撤消",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "转借学生证等证件，造成财产损失或者不良影响的，视情节轻重，最重给予（）处分。",
+            "id": "85",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.留校察看",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "某学院硕士研究生，从5月19日到当年5月29日，未经批准擅自离校，其中非节假日7天。学院已对其进行了批评教育，该同学也认识到错误后。应该给予（）处分。",
+            "id": "86",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "某同学自入学以来，学习成绩优秀。未经报告，在美国大学入学。大四上学期开学以来未按时报到，直到大四上期末才回科大参加考试，无故离校长达3个月。可以给予该同学（）处分。",
+            "id": "87",
+            "options": [
+                {
+                    "content": "A.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "某同学在必修课期末考试中，被监考老师发现座位旁有与考试内容相关的复习资料，但并未查看。可以给予该同学（）处分。",
+            "id": "88",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "某同学在期末考试中请人代考，后被查出。可以给予该同学（）处分。",
+            "id": "89",
+            "options": [
+                {
+                    "content": "A.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "某同学在某门课期末考试后，得知自己考试成绩为89分，GPA为3.7，要求任课老师改为90分，以达到GPA4.0。老师经查卷面、平时分等核实后确认成绩无误，告知该生无法修改成绩。该生多次央求无效后，后通过邮件等方式恐吓、威胁老师修改提高成绩。可以给予该同学（）处分。",
+            "id": "90",
+            "options": [
+                {
+                    "content": "A.严重警告以上直至留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.记过以上直至开除学籍",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.警告以上直至开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.警告以上直至留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "某院两名本科生，在学期期末考试同一门考试中分在不同考场，约好时间以上厕所为由在考场外会合，交换写有答案的稿纸并带回考场抄袭。评卷时被授课老师发现并上报学院，学院立刻安排班主任找这两名学生谈话，核实了违纪基本情况。经批评教育，两名学生认识到自己的错误，并递交了书面检讨。可以给予该两名同学（）处分。",
+            "id": "91",
+            "options": [
+                {
+                    "content": "A.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.记过或者留校察看",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "在课程考试中，某学院本科生A在考试中，将坐在后排B同学的答题稿纸拿过来抄袭，B同学对A同学的行为没有制止。经批评教育，该2名学生认识到错误并分别做出陈述和检讨。对于B同学的行为应该给予（）处分。",
+            "id": "92",
+            "options": [
+                {
+                    "content": "A.不处理",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.警告或者严重警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "在课程考试中，某学院本科生A在考试中，将坐在后排B同学的答题稿纸拿过来抄袭，B同学对A同学的行为没有制止。经批评教育，该2名学生认识到错误并分别做出陈述和检讨。对于A同学的行为应该给予（）处分。",
+            "id": "93",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.警告或者严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.严重警告或者记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.记过或者留校察看",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "某同学在某课程期末考试中，未经允许将手机带进考场，至发卷时仍没有按照考场要求存放在指定位置。考试中，被监考老师发现携带手机。经批评教育，该生认识到错误并做出陈述和检讨。对于该同学的行为应该给予（）处分。",
+            "id": "94",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "某同学在课程期末考试中，被监考老师发现抄看桌内与考试内容相关的笔记。可以给予该同学（）处分。",
+            "id": "95",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.记过或者留校察看",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.警告或者严重警告",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "某同学在英语课程考试中，未经允许使用电子辞典，被监考老师发现。对于该同学的行为应该给予（）处分。",
+            "id": "96",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告或者记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.记过或者留校察看",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.警告或者严重警告",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "在违章用电检查中发现某同学违章使用照明用电线路接用空调，属于违章用电。违章用电或者违章使用电器，经教育不改的，给予（）处分。",
+            "id": "97",
+            "options": [
+                {
+                    "content": "A.警告或者严重警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.通报批评",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "某同学将本人学生证长期借给校外人员，严重干扰了正常的教学秩序，造成了很坏的影响。经批评教育，该生对自己的行为做出陈述并写下检讨。其行为违反了《中国科学技术大学学生违纪处分实施细则》中以下哪条规定（）。",
+            "id": "98",
+            "options": [
+                {
+                    "content": "A.第三十二条第（五）款“转借学生证等证件，造成财产损失或者不良影响的，给予警告或严重警告处分，情节严重的，经给予记过处分或者留校察看处分”",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.第三十二条第（六）款“盗用、涂改、伪造学生证等证件或其他证明性文件的，给予严重警告或者记过处分；情节严重的，给予留校察看或者开除学籍处分”",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.第二十三条“涂改、伪造成绩单、签字、印章、推荐信或者其他有关学业、学术水平证明的，给予留校察看或者开除学籍处分”",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.第八条第（二）款“偷窃公章、保密文件、档案等物品者，视情节轻重给予留校察看或者开除学籍处分”",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "某同学在网上选课操作过程中，盗用他人密码，擅自退选他人已选定的四门课程，为自己选定他人被退选的该四门课程。后被发现。经批评教育，该同学对自己的行为做出陈述并写出检讨。其行为违反了《中国科学技术大学学生违纪处分实施细则》中以下哪条规定（）。",
+            "id": "99",
+            "options": [
+                {
+                    "content": "A.第三十条第（一）款“私自提供网络服务，发展网络用户，为他人提供网络接口者给予警告或严重警告处分；情节严重的，给予记过或者留校察看处分”",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.第三十条第（二）款“将自己的BBS账号或邮箱地址借给他人使用或者由于个人密码保管不善被他人利用，造成不良后果的，给予警告或者严重警告处分；情节严重的，给予记过处分”",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.第三十条第（三）款“未经允许，修改、移动、破坏、复制、下载他人、组织的计算机等设备中的文件等信息存储方式，依据所造成的损失，给予警告或者严重警告处分；情节严重的，给予记过或者留校察看处分”",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.第三十条第（五）款“未经允许提供网络服务，或者盗用他人、组织的账号、密码，造成不良影响的，给予警告或者严重警告处分；情节严重的，给予记过或者留校察看处分”",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "某同学军训期间，反戴军帽被值勤教官纠正时，该生不但不及时改正，还当众顶撞和辱骂值勤教官，造成很坏的影响。经批评教育，该生认错态度较好并做出了检查。其行为违反了《中国科学技术大学学生违纪处分实施细则》中以下哪条规定（）。",
+            "id": "100",
+            "options": [
+                {
+                    "content": "A.第三条“对寻衅滋事、打架斗殴致人人身伤害者，视情节轻重给予以下处分，同时肇事者应当赔偿经济损失并承担受害者医疗及其他必要费用”",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.第四条“谩骂、侮辱或者诽谤他人，造成不良影响的，给予警告或者严重警告处分；情节严重的，给予记过以上直至留校察看处分”",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.第五条“用信函、电话或者电子邮件等手段或者直接恐吓、威胁他人，干扰他人正常生活的，给予警告或者严重警告处分；情节严重的，给予记过以上直至留校察看处分”",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.第六条“通过不当肢体行为、语言、文字、影像、图片、电子信息及其他行为或方式对他人进行骚扰的，视情节轻重给予警告以上直至开除学籍处分”",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "违纪处分的种类包括（）。\n①通报批评\n②口头批评\n③警告\n④严重警告\n⑤记过\n⑥留校察看\n⑦开除学籍\n⑧主动退学",
+            "id": "101",
+            "options": [
+                {
+                    "content": "A.①②③④⑤",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.③④⑤⑥⑦",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.①③④⑤⑥⑦",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.①②③④⑤⑥⑦⑧",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "留校察看处分的察看期限从处分决定书发文之日起计算，期限为一年。在察看期限内，学生有新的违纪行为，按规定可以给予任何一种纪律处分的，()。",
+            "id": "102",
+            "options": [
+                {
+                    "content": "A.给予开除学籍处分",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.视情节延长察看期限半年或者一年",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.不给予开除学籍处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.可以提前解除察看期",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "留校察看处分的察看期限从处分决定书发文之日起计算，期限为一年。在察看期限内，学生有新的违纪行为，尚不够给予纪律处分的，经校长工作会议讨论，（）。",
+            "id": "103",
+            "options": [
+                {
+                    "content": "A.视情节可以延长察看期限半年或者一年，但察看期限累计不得超过两年",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.给予开除学籍处分",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.不可以延长察看期限",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.可以提前解除察看期",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "学生违纪有下列情形之一者，从重或者加重处分：（）。\n①对检举人、证人进行威胁或打击报复者\n②违纪再犯者\n③因违纪行为造成严重后果者\n④在校外违纪，并在社会上造成恶劣影响者",
+            "id": "104",
+            "options": [
+                {
+                    "content": "A.只有①②③",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.①②③④",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.只有②③④",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.只有①③④",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "被开除学籍的学生，应当在接到处分决定书之日起（）个工作日内办理离手续，户口迁移回原籍。",
+            "id": "105",
+            "options": [
+                {
+                    "content": "A.5",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.10",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.15",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.30",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "学生如对处分决定有异议，可以根据《中国科学技术大学学生申诉管理规定》，在学校处分决定书送交之日起（）个工作日内，向学校学生申诉处理委员会提出书面申诉。",
+            "id": "106",
+            "options": [
+                {
+                    "content": "A.5",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.10",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.15",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.30",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "学生申诉处理委员会对学生提出的申诉进行复查，并在接到书面申诉之日起（）个工作日内，做出复查结论并告知申诉人。",
+            "id": "107",
+            "options": [
+                {
+                    "content": "A.5",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.10",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.15",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.30",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "如对学校复查决定仍有异议，学生可以在学校复查决定书送达之日起（）个工作日内，向中国科学院相关职能部门或安徽省教育厅提出书面申诉。",
+            "id": "108",
+            "options": [
+                {
+                    "content": "A.5",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.10",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.15",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.30",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "违反《中华人民共和国刑法》被司法机关判处罚金、管制、拘役、有期徒刑（包括缓刑）以上刑罚者，可给予（）处分。",
+            "id": "109",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "在校内进行宗教活动，经教育不改的，给予警告以上直至记过处分；情节严重的，给予留校察看或者（）处分。",
+            "id": "110",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.开除学籍",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.严重警告",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "将枪支、弹药或者易燃、易爆、有毒、有害等危险品擅自带入学校或者带出实验室、仓库等规定保管场所，造成严重公共安全隐患的，给予（）处分。",
+            "id": "111",
+            "options": [
+                {
+                    "content": "A.警告或者严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.警告以上直至记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.严重警告或者记过",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.记过以上直至开除学籍",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "殴打他人或互殴，致他人重伤者，给予（）处分。",
+            "id": "112",
+            "options": [
+                {
+                    "content": "A.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": true
+                }
+            ]
+        },
+        {
+            "content": "以“劝架”为名，偏袒一方，促使事态扩大或造成伤害者，给予（）处分。",
+            "id": "113",
+            "options": [
+                {
+                    "content": "A.警告以上直至开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告以上直至开除学籍",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.警告以上直至留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.严重警告以上直至留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "通过不当肢体行为、语言、文字、影像、图片、电子信息及其他行为或方式对他人进行骚扰的，视情节轻重给予（）处分。",
+            "id": "114",
+            "options": [
+                {
+                    "content": "A.警告以上直至开除学籍",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.严重警告以上直至开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.警告以上直至留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.严重警告以上直至留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "拾物不还、非法占有遗失物，视情节轻重给予（）处分。",
+            "id": "115",
+            "options": [
+                {
+                    "content": "A.警告以上直至记过",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.严重警告以上直至记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.警告以上直至留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.严重警告以上直至留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "故意隐匿、毁弃、破坏公私财产的，给予警告或者严重警告处分；情节严重的，给予（）处分。",
+            "id": "116",
+            "options": [
+                {
+                    "content": "A.警告以上直至留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.记过以上直至留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.记过以上直至开除学籍",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.严重警告以上直至留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "以央求、送礼、请客、威胁等手段要求老师提高分数、加分或隐瞒违纪作弊事实者，视情节轻重给予（）处分。",
+            "id": "117",
+            "options": [
+                {
+                    "content": "A.警告以上直至留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.记过以上直至留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.记过以上直至开除学籍",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.严重警告以上直至留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "因考试作弊受到处分后，再次考试作弊者，给予（）处分。",
+            "id": "118",
+            "options": [
+                {
+                    "content": "A.记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.开除学籍",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "未经学生社区管理部门批准私自调换宿舍，经教育不改的，给予（）处分。",
+            "id": "119",
+            "options": [
+                {
+                    "content": "A.警告或者严重警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.记过",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "违反学生社区管理有关规定，扰乱学生社区管理、生活秩序，因私拉电线，使用违章电器导致火灾险情的，给予（）处分。",
+            "id": "120",
+            "options": [
+                {
+                    "content": "A.记过",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "在各种网络论坛发布违反宪法，反对四项基本原则、破坏安定团结、扰乱社会秩序的言论，视情节轻重，给予（）处分。",
+            "id": "121",
+            "options": [
+                {
+                    "content": "A.警告以上直至开除学籍",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.严重警告以上直至开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.警告以上直至留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.严重警告以上直至留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "妨碍学校有关人员执行公务的，给予（）处分；情节严重的，给予记过或者留校察看处分。",
+            "id": "122",
+            "options": [
+                {
+                    "content": "A.警告或者严重警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.严重警告或者记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "在违纪事件处理过程中故意作伪证或故意给调查造成困难的，给予（）处分。",
+            "id": "123",
+            "options": [
+                {
+                    "content": "A.警告或者严重警告",
+                    "isCorrect": true
+                },
+                {
+                    "content": "B.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.严重警告或者记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "参与赌博或者明知赌博而提供赌具或场所的，给予（）处分；其中有聚众赌博、屡次赌博或者勾结校外人员赌博等严重情节的，给予留校察看或者开除学籍处分。",
+            "id": "124",
+            "options": [
+                {
+                    "content": "A.警告或者严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.留校察看",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.严重警告或者记过",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "参与非法传销的，并且情节严重的，给予（）处分。",
+            "id": "125",
+            "options": [
+                {
+                    "content": "A.警告或者严重警告",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告或者记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.记过或者留校察看",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.开除学籍",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "恶意违约，不履行承诺，造成不良影响的，给予警告或者严重警告处分；情节严重的，给予给予（）处分。",
+            "id": "126",
+            "options": [
+                {
+                    "content": "A.记过或者开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告或者记过",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.记过或者留校察看",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.留校察看或者开除学籍",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "擅自代表学校、院系等机构或者学生组织等名义对外发布公告、新闻，或者做出不负责任承诺的，视情节轻重给予（）处分。",
+            "id": "127",
+            "options": [
+                {
+                    "content": "A.警告以上直至开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告以上直至开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.警告以上直至留校察看",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.严重警告以上直至留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "擅自代表学校、院系等机构或者学生组织等名义在社会上参加活动的，视情节轻重给予（）处分。",
+            "id": "128",
+            "options": [
+                {
+                    "content": "A.警告以上直至开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.严重警告以上直至开除学籍",
+                    "isCorrect": false
+                },
+                {
+                    "content": "C.警告以上直至留校察看",
+                    "isCorrect": true
+                },
+                {
+                    "content": "D.严重警告以上直至留校察看",
+                    "isCorrect": false
+                }
+            ]
+        },
+        {
+            "content": "学校成立中国科学技术大学学生申诉处理委员会，委员会下设办公室。办公室挂靠（）。",
+            "id": "129",
+            "options": [
+                {
+                    "content": "A.教务处",
+                    "isCorrect": false
+                },
+                {
+                    "content": "B.党政办公室",
+                    "isCorrect": true
+                },
+                {
+                    "content": "C.学生工作部（处）",
+                    "isCorrect": false
+                },
+                {
+                    "content": "D.研究生院",
+                    "isCorrect": false
+                }
+            ]
+        }
+    ]
+}
