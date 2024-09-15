@@ -85,8 +85,7 @@ axios.get("/data/list.json").then(res => {
 <template>
     <div class="v-container">
         <h2 class="v-header">vtix 答题自测</h2>
-        <div class="v-divider"></div>
-        <n-input placeholder="搜索" :on-input="updateSearchPattern" clearable>
+        <n-input placeholder="搜索" :on-input="updateSearchPattern" size="large" clearable>
             <template #prefix>
                 <n-icon :component="Search" />
             </template>
@@ -107,9 +106,11 @@ axios.get("/data/list.json").then(res => {
             </template>
             <template v-else>
                 <template v-if="showList.length > 0">
-                    <div class="v-card v-card-link" v-for="(r, i) in showList" @click="gotoTest(r.id)" v-bind:key="i">
+                    <div class="v-card v-card-link main-item" v-for="(r, i) in showList" @click="gotoTest(r.id)"
+                        v-bind:key="i">
                         <span class="v-card-title-small">{{ r.title }}</span>
-                        时间：{{ r.time }} &nbsp; 分类：<n-tag v-for="(t, j) in r.categories" v-bind:key="j">{{ t }}</n-tag>
+                        <div class="v-card-append">时间：{{ r.time }} &nbsp; 分类：<span class="v-tag v-tag-success"
+                                v-for="(t, j) in r.categories" v-bind:key="j">{{ t }}</span></div>
                     </div>
                 </template>
                 <div class="v-card" v-else>

@@ -35,10 +35,25 @@ body {
 }
 
 .v-subheader {
+    position: relative;
     display: block;
     margin-top: 6vh;
     font-size: 1.4rem;
     font-weight: 300;
+}
+
+.v-subheader::after {
+    content: "";
+    display: block;
+    position: absolute;
+    background: #47af50;
+    opacity: 0.25;
+    pointer-events: none;
+    border-radius: 15px;
+    left: -2px;
+    bottom: 0px;
+    width: 30px;
+    height: 9px;
 }
 
 .v-ti-subheader {
@@ -76,7 +91,7 @@ body {
 
 .v-card-title-small {
     display: block;
-    font-size: 1.2rem;
+    font-size: 1.35rem;
     font-weight: 300;
 }
 
@@ -90,8 +105,21 @@ body {
     cursor: pointer;
 }
 
-.v-card-list .v-card:not(:first-child) {
+.v-card-link.main-item {
+    background-color: #fcfcfc;
+}
+
+.v-card-link.main-item:hover {
+    background-color: #f9f9f9;
+}
+
+.v-card-append {
     margin-top: 10px;
+    font-size: .875rem;
+}
+
+.v-card-list .v-card:not(:first-child) {
+    margin-top: 25px;
 }
 
 .v-footer {
@@ -477,6 +505,19 @@ body {
     color: #1780db;
     cursor: auto;
     margin-bottom: 4px;
+}
+
+.v-tag.v-tag-success {
+    border-color: #47af50;
+    background-color: #47af5010;
+    box-shadow: 0 2px 4px #47af5030;
+    color: #47af50;
+    cursor: auto;
+    margin-bottom: 4px;
+}
+
+.v-card-append .v-tag {
+    font-size: .75rem;
 }
 
 .v-tag.info {
