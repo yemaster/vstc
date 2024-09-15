@@ -114,8 +114,9 @@ body {
 }
 
 .v-card-append {
-    margin-top: 10px;
+    margin-top: 5px;
     font-size: .875rem;
+    color: #888;
 }
 
 .v-card-list .v-card:not(:first-child) {
