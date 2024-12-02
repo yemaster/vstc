@@ -4,10 +4,16 @@
         "入学"
     ],
     "recommended": [
-        "2024dekt",
-        "2024xgxj"
+        "2024sxdd"
     ],
     "problems": {
+        "2024sxdd": {
+            "title": "2024年思想道德与法治无纸化考试题库",
+            "time": 2024,
+            "categories": [
+                "政治"
+            ]
+        },
         "2024xgxj": {
             "title": "2024年校规校纪知识测试题库(130题)",
             "time": 2024,
