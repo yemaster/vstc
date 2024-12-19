@@ -5,13 +5,23 @@ import { useRoute, useRouter } from "vue-router";
 import axios from "axios";
 
 import { NIcon, NTag, NSpace, NSkeleton, NTooltip, NButton, NSwitch, useMessage, useNotification, NA, NDropdown, NProgress, NPopconfirm } from "naive-ui";
-import { Checkmark, Send, ChevronBackSharp, SpeedometerOutline, Pencil, Shuffle, Cog, Newspaper, Close, Time, Menu, Navigate, Backspace, AppsSharp, ChatboxEllipses, DownloadOutline, CloudUploadOutline, FileTrayOutline, NewspaperOutline } from "@vicons/ionicons5";
+import { Checkmark, Send, ChevronBackSharp, SpeedometerOutline, Pencil, Shuffle, Cog, Newspaper, Close, Time, Menu, Navigate, Backspace, AppsSharp, ChatboxEllipses, DownloadOutline, CloudUploadOutline, FileTrayOutline, NewspaperOutline, Sync, Save, Warning} from "@vicons/ionicons5";
 
 import { parseProgress } from "@/base/progressParser";
 
 const router = useRouter();
 const route = useRoute();
 const testId = route.params.id;
+
+// 保存状态指示和最后保存时间
+const saveStatus = ref<'saving' | 'saved' | 'error'>('saved') // 默认已保存状态
+const lastSaveTime = ref('未开始')
+function getCurrentTimeString() {
+    const now = new Date();
+    const h = String(now.getHours()).padStart(2, '0');
+    const m = String(now.getMinutes()).padStart(2, '0');
+    return `${h}:${m}`;
+}
 
 // 消息
 const message = useMessage();
@@ -262,22 +272,30 @@ function loadData() {
         normalPractice();
     }
 }
-function storeData() {
-    saveNowProgress();
 
-    localStorage.setItem("vtixSaved", problemInfo.value.title);
+function storeData() { // 使用try/catch确保存储安全性，防止在本地存储用不了或写入异常时报错
+    try {
+        saveNowProgress();
 
-    if (practiceMode.value !== 5) {
-        localStorage.setItem("nowProblemList", JSON.stringify(nowProblemList.value));
-        localStorage.setItem("nowProblemId", String(nowProblemId.value));
-        localStorage.setItem("practiceMode", String(practiceMode.value));
-        localStorage.setItem("testMode", JSON.stringify(testMode.value));
-        localStorage.setItem("problemState", JSON.stringify(problemState.value));
-        localStorage.setItem("answerList", JSON.stringify(answerList.value));
+        localStorage.setItem("vtixSaved", problemInfo.value.title);
+
+        if (practiceMode.value !== 5) {
+            localStorage.setItem("nowProblemList", JSON.stringify(nowProblemList.value));
+            localStorage.setItem("nowProblemId", String(nowProblemId.value));
+            localStorage.setItem("practiceMode", String(practiceMode.value));
+            localStorage.setItem("testMode", JSON.stringify(testMode.value));
+            localStorage.setItem("problemState", JSON.stringify(problemState.value));
+            localStorage.setItem("answerList", JSON.stringify(answerList.value));
+        }
+        localStorage.setItem("errorProblems", JSON.stringify(errorProblems.value));
+        // Store Progress
+        localStorage.setItem("progressStore", JSON.stringify(progressStore.value));
+        saveStatus.value = 'saved';
+        lastSaveTime.value = getCurrentTimeString();
+    } catch (e) {
+        saveStatus.value = 'error';
+        message.error("存储答题数据时发生异常，请关闭无痕模式、检查浏览器存储权限或空间，必要时点击“答题记录”前往手动备份");
     }
-    localStorage.setItem("errorProblems", JSON.stringify(errorProblems.value));
-    // Store Progress
-    localStorage.setItem("progressStore", JSON.stringify(progressStore.value));
 }
 
 function saveNowProgress() {
@@ -320,9 +338,13 @@ function submitAnswer(d: number = -1) {
             answerList.value[checkProblemId] = nowAnswer.value
         problemState.value[checkProblemId] = 1
         nextProblem();
+        saveStatus.value = 'saving';
+        storeData(); // 答了就存，保证安全
     }
     else {
         checkAnswer();
+        saveStatus.value = 'saving';
+        storeData(); // 答了就存，保证安全
     }
 }
 function checkAnswer(d: number = -1) {
@@ -1095,6 +1117,23 @@ function submitPaper() {
                                         </template>
                                         正确率
                                     </n-tooltip>
+                                    <n-tooltip trigger="hover">
+                                        <template #trigger>
+                                            <n-tag :type="saveStatus === 'saving' ? 'error' : (saveStatus === 'saved' ? 'default' : 'error')">
+                                                <template #icon>
+                                                    <n-icon>
+                                                        <Sync v-if="saveStatus === 'saving'" />
+                                                        <Save v-else-if="saveStatus === 'saved'" />
+                                                        <Warning v-else />
+                                                    </n-icon>
+                                                </template>
+                                                <span v-if="saveStatus === 'saving'">保存中</span>
+                                                <span v-else-if="saveStatus === 'saved'">已保存</span>
+                                                <span v-else>保存错误</span>
+                                            </n-tag>
+                                        </template>
+                                        上次保存于 {{ lastSaveTime }}
+                                    </n-tooltip>
                                 </div>
                             </div>
                             <div class="v-problem-navigator-container">
@@ -1175,6 +1214,23 @@ function submitPaper() {
                         </n-tag>
                     </template>
                     正确率
+                </n-tooltip>
+                <n-tooltip trigger="hover">
+                    <template #trigger>
+                        <n-tag :type="saveStatus === 'saving' ? 'error' : (saveStatus === 'saved' ? 'default' : 'error')">
+                            <template #icon>
+                                <n-icon>
+                                    <Sync v-if="saveStatus === 'saving'" />
+                                    <Save v-else-if="saveStatus === 'saved'" />
+                                    <Warning v-else />
+                                </n-icon>
+                            </template>
+                                <span v-if="saveStatus === 'saving'">保存中</span>
+                                <span v-else-if="saveStatus === 'saved'">已保存</span>
+                                <span v-else>保存错误</span>
+                        </n-tag>
+                    </template>
+                    上次保存于 {{ lastSaveTime }}
                 </n-tooltip>
             </div>
             <n-tag @click="viewMode = 2" type="info" v-if="viewMode !== 2">
