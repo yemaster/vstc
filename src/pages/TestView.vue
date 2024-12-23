@@ -332,7 +332,6 @@ function submitAnswer(d: number = -1) {
     if (practiceMode.value === 5) {
         if (nowProblemList.value[checkProblemId].type === 3) {
             answerList.value[checkProblemId] = [String(writeAnswer.value)]
-            writeAnswer.value = ""
         }
         else
             answerList.value[checkProblemId] = nowAnswer.value
