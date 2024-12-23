@@ -1,7 +1,7 @@
 <script setup lang="ts">
 import { useRouter } from "vue-router";
 
-import { NIcon } from "naive-ui";
+import { NIcon, NA } from "naive-ui";
 import { ChevronBackSharp } from "@vicons/ionicons5";
 
 const router = useRouter();
@@ -19,6 +19,15 @@ function backToHome() {
     </div>
     <div class="v-divider"></div>
     <div class="v-container">
+        <h3>2024-12-23 更新</h3>
+        <ul>
+            <li>修复了导入存档无效的问题</li>
+            <li>修复了存档删除后没用的问题</li>
+        </ul>
+        <h3>2024-12-19 更新</h3>
+        <ul>
+            <li>(<n-a href="https://github.com/yemaster/vstc/commits?author=Zhehan-Z" target="_blank">@Zhehan-Z</n-a>) 增加了存档的频率，放置存档丢失 Commit <n-a href="https://github.com/yemaster/vstc/commit/3a30aafc30b7d777f075683ea1614ce5e72ed3fe" target="_blank">3a30aaf</n-a></li>
+        </ul>
         <h3>2024-06-18 更新</h3>
         <ul>
             <li>不同答题练习的存档分开储存，方便错题练习后重新回到相应答题中</li>

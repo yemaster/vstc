@@ -5,13 +5,16 @@ import { useRoute, useRouter } from "vue-router";
 import axios from "axios";
 
 import { NIcon, NTag, NSpace, NSkeleton, NTooltip, NButton, NSwitch, useMessage, useNotification, NA, NDropdown, NProgress, NPopconfirm } from "naive-ui";
-import { Checkmark, Send, ChevronBackSharp, SpeedometerOutline, Pencil, Shuffle, Cog, Newspaper, Close, Time, Menu, Navigate, Backspace, AppsSharp, ChatboxEllipses, DownloadOutline, CloudUploadOutline, FileTrayOutline, NewspaperOutline, Sync, Save, Warning} from "@vicons/ionicons5";
+import { Checkmark, Send, ChevronBackSharp, SpeedometerOutline, Pencil, Shuffle, Cog, Newspaper, Close, Time, Menu, Navigate, Backspace, AppsSharp, ChatboxEllipses, DownloadOutline, CloudUploadOutline, FileTrayOutline, NewspaperOutline, Sync, Save, Warning } from "@vicons/ionicons5";
 
 import { parseProgress } from "@/base/progressParser";
 
 const router = useRouter();
 const route = useRoute();
 const testId = route.params.id;
+
+// 标记是否删除了记录，删除记录后，本次记录不会进行保存。
+const deleteTag = ref(false);
 
 // 保存状态指示和最后保存时间
 const saveStatus = ref<'saving' | 'saved' | 'error'>('saved') // 默认已保存状态
@@ -298,7 +301,16 @@ function storeData() { // 使用try/catch确保存储安全性，防止在本地
     }
 }
 
+function deleteProgress(key: number) {
+    deleteTag.value = true;
+    delete progressStore.value[key];
+}
+
 function saveNowProgress() {
+    if (deleteTag.value) { // 删除记录后，本次记录不会进行保存。
+        deleteTag.value = false;
+        return;
+    }
     progressStore.value[practiceMode.value] = {
         answerList: answerList.value,
         problemState: problemState.value,
@@ -557,7 +569,9 @@ axios.get(`/data/${testId}.json`).then(res => {
 
 // 作答模式
 function continueProgress(key: number) {
-    saveNowProgress();
+    if (practiceMode.value !== key) { // 不是同一种模式，才需要保存当前进度，否则就没用
+        saveNowProgress();
+    }
     practiceMode.value = key;
     nowProblemList.value = progressStore.value[key].problemList;
     answerList.value = progressStore.value[key].answerList;
@@ -831,7 +845,7 @@ function submitPaper() {
 <template>
     <div class="v-container">
         <div class="v-ti-subheader link" @click="backToHome"><n-icon :component="ChevronBackSharp"></n-icon> <span>vtix
-                答题自测</span></div>
+                答题自测{{ viewMode }} {{ showProgress }}</span></div>
         <h2 class="v-ti-header">{{ problemInfo.title }}</h2>
         <div class="v-divider mobile-only"></div>
     </div>
@@ -942,18 +956,21 @@ function submitPaper() {
                             </template>
                             <template v-else-if="showProgress">
                                 <n-space vertical>
-                                    <n-button strong secondary type="info" size="small"
-                                        @click="importProgress">导入记录</n-button>
+                                    <n-popconfirm @positive-click="importProgress">
+                                        <template #trigger>
+                                            <n-button strong secondary type="info" size="small">导入记录</n-button>
+                                        </template>导入记录会强制覆盖当前记录，确定要导入吗
+                                    </n-popconfirm>
                                     <template v-for="(val, key) in progressStore" :key="key">
                                         <template v-if="key <= 3">
                                             <div><n-space><span>{{ practiceModeName[key] }} 完成: {{
                                                 getProgressFinished(val) }}/{{
                                                             getProgressAll(val) }} 正确：{{ getProgressCorrect(val) }}</span>
                                                     <n-button strong secondary size="tiny" type="success"
-                                                        @click="continueProgress(key)">继续</n-button>
+                                                        @click="continueProgress(Number(key))">继续</n-button>
                                                     <n-button strong secondary size="tiny" type="info"
                                                         @click="exportProgress(key)">导出</n-button>
-                                                    <n-popconfirm @positive-click="delete progressStore[key]">
+                                                    <n-popconfirm @positive-click="deleteProgress(Number(key))">
                                                         <template #trigger>
                                                             <n-button strong secondary size="tiny"
                                                                 type="error">清除</n-button>
@@ -1118,7 +1135,8 @@ function submitPaper() {
                                     </n-tooltip>
                                     <n-tooltip trigger="hover">
                                         <template #trigger>
-                                            <n-tag :type="saveStatus === 'saving' ? 'error' : (saveStatus === 'saved' ? 'default' : 'error')">
+                                            <n-tag
+                                                :type="saveStatus === 'saving' ? 'error' : (saveStatus === 'saved' ? 'default' : 'error')">
                                                 <template #icon>
                                                     <n-icon>
                                                         <Sync v-if="saveStatus === 'saving'" />
@@ -1216,7 +1234,8 @@ function submitPaper() {
                 </n-tooltip>
                 <n-tooltip trigger="hover">
                     <template #trigger>
-                        <n-tag :type="saveStatus === 'saving' ? 'error' : (saveStatus === 'saved' ? 'default' : 'error')">
+                        <n-tag
+                            :type="saveStatus === 'saving' ? 'error' : (saveStatus === 'saved' ? 'default' : 'error')">
                             <template #icon>
                                 <n-icon>
                                     <Sync v-if="saveStatus === 'saving'" />
@@ -1224,9 +1243,9 @@ function submitPaper() {
                                     <Warning v-else />
                                 </n-icon>
                             </template>
-                                <span v-if="saveStatus === 'saving'">保存中</span>
-                                <span v-else-if="saveStatus === 'saved'">已保存</span>
-                                <span v-else>保存错误</span>
+                            <span v-if="saveStatus === 'saving'">保存中</span>
+                            <span v-else-if="saveStatus === 'saved'">已保存</span>
+                            <span v-else>保存错误</span>
                         </n-tag>
                     </template>
                     上次保存于 {{ lastSaveTime }}
