@@ -846,7 +846,7 @@ function submitPaper() {
 <template>
     <div class="v-container">
         <div class="v-ti-subheader link" @click="backToHome"><n-icon :component="ChevronBackSharp"></n-icon> <span>vtix
-                答题自测{{ viewMode }} {{ showProgress }}</span></div>
+                答题自测</span></div>
         <h2 class="v-ti-header">{{ problemInfo.title }}</h2>
         <div class="v-divider mobile-only"></div>
     </div>
