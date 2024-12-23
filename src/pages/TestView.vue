@@ -302,7 +302,8 @@ function storeData() { // 使用try/catch确保存储安全性，防止在本地
 }
 
 function deleteProgress(key: number) {
-    deleteTag.value = true;
+    if (practiceMode.value === key)
+        deleteTag.value = true; // 只有删除的刚好是当前的模式才会标记
     delete progressStore.value[key];
 }
 
