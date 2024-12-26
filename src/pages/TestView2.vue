@@ -437,8 +437,10 @@ function shufflePractice() {
     viewMode.value = 1;
 }
 function testPractice() {
+    // 清除上次作题痕迹
+    initData();
+    
     shufflePractice();
-
     practiceMode.value = 5;
     testMode.value = problemInfo.value.test;
     scoreList.value = problemInfo.value.score;
