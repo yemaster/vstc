@@ -1,4 +1,7 @@
-# vtix
+# vtix（旧版）
+
+> [!NOTE]
+> 新版仓库地址 [https://github.com/yemaster/vtix-ng](https://github.com/yemaster/vtix-ng)
 
 ## 📚 什么是 vtix？
 
