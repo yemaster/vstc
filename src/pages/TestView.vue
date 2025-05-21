@@ -1012,6 +1012,12 @@ function submitPaper() {
                                             {{ choices[i] }}. {{ c }}</span>
                                     </template>
                                 </div>
+                                <div class="v-problem-hint" v-if="(problemState[nowProblemId] === 2 || problemState[nowProblemId] === 3) && (nowProblemList[nowProblemId].hint)">
+                                    <div class="v-problem-hint-title">解析</div>
+                                    <span class="v-problem-hint-content">
+                                        {{ nowProblemList[nowProblemId].hint }}
+                                    </span>
+                                </div>
 
                                 <div class="v-button-area">
                                     <n-space>
@@ -1162,23 +1168,23 @@ function submitPaper() {
                                                 scoreList[k] *
                                                 problemNum }}分)
                                             </div>
-                                            <n-space>
+                                            <div style="display: flex;flex-flow: wrap;justify-content: flex-start;row-gap: 8px;">
                                                 <div :class="getProblemStateType(g + pre[k] - 1)" class="v-tag"
                                                     v-for="g in problemNum" v-bind:key="g"
                                                     @click="changeProblemId(g + pre[k] - 1)">
                                                     {{ g + pre[k] }}
                                                 </div>
-                                            </n-space>
+                                            </div>
                                         </template>
                                     </template>
                                 </template>
-                                <n-space v-else>
+                                <div style="display: flex;flex-flow: wrap;justify-content: flex-start;row-gap: 8px;" v-else>
                                     <div :class="getProblemStateType(k - 1)" class="v-tag"
                                         v-for="k in nowProblemList.length" v-bind:key="k"
                                         @click="changeProblemId(k - 1)">
                                         {{ k }}
                                     </div>
-                                </n-space>
+                                </div>
                             </div>
                         </div>
                     </template>
@@ -1263,3 +1269,21 @@ function submitPaper() {
         </n-space>
     </div>
 </template>
+
+<style scoped>
+.v-problem-hint {
+    display: block;
+    margin: 30px 0;
+
+    border-left: 3px solid #1780db;
+    background-color: #1780db10;
+    padding: 15px 20px;
+}
+
+.v-problem-hint .v-problem-hint-title {
+    display: block;
+    color: #1780db;
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+</style>

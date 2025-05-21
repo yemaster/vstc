@@ -108,7 +108,8 @@ axios.get("/data/list.json").then(res => {
                 <template v-if="showList.length > 0">
                     <div class="v-card v-card-link main-item" v-for="(r, i) in showList" @click="gotoTest(r.id)"
                         v-bind:key="i">
-                        <span class="v-card-title-small">{{ r.title }}</span>
+                        <span class="v-card-title-small"><span class="v-tag v-tag-danger"
+                                v-if="r.new">新上线</span> {{ r.title }}</span>
                         <div class="v-card-append">时间：{{ r.time }} &nbsp; 分类：<span class="v-tag v-tag-success"
                                 v-for="(t, j) in r.categories" v-bind:key="j">{{ t }}</span></div>
                     </div>

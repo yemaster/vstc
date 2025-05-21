@@ -90,7 +90,7 @@ body {
 }
 
 .v-card-title-small {
-    display: block;
+    display: flex;
     font-size: 1.35rem;
     font-weight: 300;
 }
@@ -488,8 +488,11 @@ body {
 }
 
 .v-tag {
-    display: inline-block;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
     padding: 2px 8px;
+    margin: 0 4px;
     background-color: #f3f3f3;
     border-radius: 4px;
     font-size: 14px;
@@ -513,6 +516,15 @@ body {
     background-color: #47af5010;
     box-shadow: 0 2px 4px #47af5030;
     color: #47af50;
+    cursor: auto;
+    margin-bottom: 4px;
+}
+
+.v-tag.v-tag-danger {
+    border-color: #db2828;
+    background-color: #db282810;
+    box-shadow: 0 2px 4px #db282830;
+    color: #db2828;
     cursor: auto;
     margin-bottom: 4px;
 }

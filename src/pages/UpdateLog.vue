@@ -19,6 +19,11 @@ function backToHome() {
     </div>
     <div class="v-divider"></div>
     <div class="v-container">
+        <h3>2025-5-21 更新</h3>
+        <ul>
+            <li>新增 2025 近代史纲要</li>
+            <li>新增题目解析</li>
+        </ul>
         <h3>2024-12-23 更新</h3>
         <ul>
             <li>修复了导入存档无效的问题</li>
