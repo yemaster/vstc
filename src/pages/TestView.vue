@@ -33,7 +33,7 @@ const notify = useNotification();
 const loading = ref(true);
 
 import type { ChooseProblemType, ProblemType } from "@/base/ProblemTypes";
-import { hashCode } from "@/base/funcs";
+import { hashCode, deepCopy } from "@/base/funcs";
 
 type ProblemListType = {
     title: string;
@@ -587,7 +587,7 @@ function normalPractice() {
     saveNowProgress();
     practiceMode.value = 0;
     if (!loadProgressData()) {
-        nowProblemList.value = [...problemInfo.value.problems];
+        nowProblemList.value = deepCopy(problemInfo.value.problems);
         initData();
     }
     viewMode.value = 1;
@@ -619,7 +619,7 @@ function shufflePractice() {
     saveNowProgress();
     practiceMode.value = 1;
     if (!loadProgressData()) {
-        nowProblemList.value = [...problemInfo.value.problems];
+        nowProblemList.value = deepCopy(problemInfo.value.problems);
         shuffleProblem(nowProblemList.value);
         initData();
     }
@@ -628,7 +628,7 @@ function shufflePractice() {
 function testPractice() {
     saveNowProgress();
 
-    nowProblemList.value = [...problemInfo.value.problems];
+    nowProblemList.value = deepCopy(problemInfo.value.problems);
     shuffleProblem(nowProblemList.value);
     initData();
 
@@ -639,7 +639,7 @@ function testPractice() {
     if (typeof testMode.value === "number") {
         nowProblemList.value = nowProblemList.value.slice(0, testMode.value);
     } else {
-        const nowProblemsCopy = [...nowProblemList.value];
+        const nowProblemsCopy = deepCopy(nowProblemList.value);
         nowProblemList.value = [];
 
         testMode.value.forEach((count, type) => {
@@ -668,13 +668,13 @@ function errorPractice() {
         return
     }
     practiceMode.value = 4;
-    nowProblemList.value = [...errorProblems.value];
+    nowProblemList.value = deepCopy(errorProblems.value);
     initData();
     viewMode.value = 1;
 }
 function customPractice() {
     saveNowProgress();
-    const nowProblemsCopy = [...problemInfo.value.problems];
+    const nowProblemsCopy = deepCopy(problemInfo.value.problems);
     nowProblemList.value = nowProblemsCopy.filter(problem => setType.value[problem.type]);
 
     if (nowProblemList.value.length === 0) {
