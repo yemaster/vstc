@@ -227,6 +227,11 @@ body {
     transition: all .2s;
 }
 
+.v-choose-box:hover {
+    border-color: #83b7e5;
+    background-color: #eeeeee;
+}
+
 .v-choose-box.chosen {
     border-color: #1780db;
     background-color: #ddd;
