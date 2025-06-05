@@ -198,6 +198,7 @@ body {
     font-weight: 400;
     word-break: break-all;
     white-space: break-spaces !important;
+    user-select: text;
 }
 
 .v-problem-secTitle {
@@ -225,6 +226,7 @@ body {
     box-shadow: 0 1px 2px rgba(0, 0, 0, .2);
     cursor: pointer;
     transition: all .2s;
+    user-select: text;
 }
 
 .v-choose-box:hover {
