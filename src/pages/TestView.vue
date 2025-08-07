@@ -360,8 +360,6 @@ function submitAnswer(d: number = -1) {
     }
 }
 function checkAnswer(d: number = -1) {
-    rightAnswer.value = []
-    wrongAnswer.value = []
     let checkProblemId = d
     if (d !== -1)
         nowAnswer.value = answerList.value[d];
@@ -369,6 +367,8 @@ function checkAnswer(d: number = -1) {
         checkProblemId = nowProblemId.value
     if (problemState.value[checkProblemId] > 1)
         return
+    rightAnswer.value = []
+    wrongAnswer.value = []
     let flag = true
     if (problemState.value[checkProblemId] === -1)
         flag = false
